@@ -15,7 +15,7 @@ This project was developed as part of a web technologies course to demonstrate:
 
 ---
 
-## 🧱 Project Architecture (MVC)
+##  Project Architecture (MVC)
 
 - **Model**
   - `Student`
@@ -39,7 +39,7 @@ This project was developed as part of a web technologies course to demonstrate:
 
 ---
 
-## 🔐 Authentication & Authorization
+##  Authentication & Authorization
 
 ### User Roles
 - **Instructor**
